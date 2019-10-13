@@ -1,15 +1,15 @@
 .del{
     background-color: red;
     color: black;
-    padding: 5px 9px;
-    border-radius: 50%;
+    padding: 10px 20px;
+    /* border-radius: 50%; */
     float: right;
 }
 
 .todo{
-    background-color: beige;
-    padding: 10px;
-    border-bottom: 1px #ccc dotted;
+    background-color: lightslategray;
+    padding: 15px;
+    border-bottom: 1px black dotted;
 }
 
 .is-complete{
